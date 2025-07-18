@@ -8,7 +8,7 @@
 - Behavioral (Strategy, Observer, State)
 - Concurrency/Integration (Fan-In, Fan-Out, Pub/Sub, Retry)
 
-### 2. [Fuctional Go](./functional-go/)
+### 2. [Fuctional Go](./functional-go/fuctional-go.md)
 - Higher-order fuctions
 - Functional options
 - Go-style pipelines and immutability
