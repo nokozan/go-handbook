@@ -8,7 +8,7 @@ Use functional parameters to build flexible, clean constructors.
 ### 📌 [Higher-Order Functions](./higher-order-functions/higher-order-functions.md)
 Pass functions as values to compose logic, wrap behavior, or inject dynamic behavior.
 
-### 📌 [Pipelines in Go](./pipelines.md)
+### 📌 [Pipelines in Go](./pipelines/pipelines.md)
 Build immutable-style data pipelines using channels and simple composition.
 
 ---
